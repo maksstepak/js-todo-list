@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.15;
+  font-family: "Lato", sans-serif;
+  color: #000;
+  background: #fff;
+  min-height: 100vh;
+}
